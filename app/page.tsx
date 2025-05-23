@@ -374,7 +374,7 @@ function MusicaSection() {
       titulo: "can't falling in love",
       artista: "UB40",
       dedicatoria: "Por tu espíritu libre y aventurero",
-      youtubeId: "Ajp0Uaw4rqo", // ID del video de YouTube (versión con letra)
+      youtubeId: "vGJTaP6anOU", // ID del video de YouTube (versión con letra)
     },
     {
       titulo: "Love of My Life",
