@@ -134,7 +134,7 @@ function InicioSection() {
           transition={{ delay: 0.6 }}
           className="space-y-4"
         >
-          <h2 className="text-3xl md:text-4xl text-pink-200 font-light">Un universo digital creado para ti</h2>
+          <h2 className="text-3xl md:text-4xl text-pink-200 font-light">Hice esto con mucho amor para ti</h2>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
             Explora cada sección de este espacio mágico diseñado especialmente para celebrar a la mujer más
             extraordinaria que conozco
