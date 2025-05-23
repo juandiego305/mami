@@ -374,7 +374,7 @@ function MusicaSection() {
       titulo: "Kingston Town",
       artista: "UB40",
       dedicatoria: "Por tu espíritu libre y aventurero",
-      youtubeId: "0rJA9lnGcP4", // ID del video de YouTube (versión con letra)
+      youtubeId: "ecNOZL0Rg-8", // ID del video de YouTube (versión con letra)
     },
     {
       titulo: "Love of My Life",
