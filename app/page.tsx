@@ -374,7 +374,7 @@ function MusicaSection() {
       titulo: "Kingston Town",
       artista: "UB40",
       dedicatoria: "Por tu espíritu libre y aventurero",
-      youtubeId: "ecNOZL0Rg-8", // ID del video de YouTube (versión con letra)
+      youtubeId: "H0Pdh2S3UlQ", // ID del video de YouTube (versión con letra)
     },
     {
       titulo: "Love of My Life",
@@ -462,7 +462,7 @@ function MusicaSection() {
         </div>
 
         <div className="mt-6 p-4 bg-green-500/20 rounded-lg border border-green-400/30 text-center">
-          <p className="text-green-200 text-sm">🎵 Los videos se reproducen desde YouTube - ¡Disfruta la música!</p>
+          <p className="text-green-200 text-sm">🎵 Creo que escogi canciones que te gustan  - ¡Disfruta la música!</p>
         </div>
       </div>
     </motion.section>
