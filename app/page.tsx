@@ -371,10 +371,10 @@ function MusicaSection() {
       youtubeId: "a5fHoAx12DY", // ID del video de YouTube
     },
     {
-      titulo: "Kingston Town",
+      titulo: "can't falling in love",
       artista: "UB40",
       dedicatoria: "Por tu espíritu libre y aventurero",
-      youtubeId: "H0Pdh2S3UlQ", // ID del video de YouTube (versión con letra)
+      youtubeId: "Ajp0Uaw4rqo", // ID del video de YouTube (versión con letra)
     },
     {
       titulo: "Love of My Life",
